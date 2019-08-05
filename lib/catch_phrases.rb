@@ -8,7 +8,8 @@ def toadstool
   puts status
 end
 
-def any_phrase
-  phrase = "Do a Barrel Roll!"
+def link
+  phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
 end
+
